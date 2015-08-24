@@ -10,5 +10,7 @@
 /TODO
 # ignore todos os arquivos no diretório build/
 build/
+# ignore todos os arquivos no diretório target/
+target/
 # ignore doc/notes.txt mas, não ignore doc/server/arch.txt
 doc/*.txt
